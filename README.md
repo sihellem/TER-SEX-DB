@@ -4,3 +4,7 @@
 # The Termite Sex Database
 
 # ! UNDER CONSTRUCTION !
+_Data will first appear at the publisher of the manuscript as "Supplementary Data" and will then be mirrored on this GitHub page._
+
+## How to cite
+Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites.
