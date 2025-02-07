@@ -1,15 +1,18 @@
 [![sihellem - TER-SEX-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-SEX-DB&color=red&logo=github)](https://github.com/sihellem/TER-SEX-DB "Go to GitHub repo")
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# The Termite Sex Database
-
 # ! UNDER CONSTRUCTION !
 _Data will first appear at the publisher of the manuscript as "Supplementary Data" and will then be mirrored on this GitHub page._
+
+# The Termite Sex Database
+This database centralizes published termite alate numerical sex ratio data and demographics for these species.
+
+We invite researchers to join the initiative and share their dust-taking data with the termite scientific community, through this database repository, on which we plan to periodically update available data on termite demographics and sex ratios.
 
 ## Population sex ratio
 Calculate the mean population numerical sex ratio and its associated 95% confidence interval (CI) for frequency-structured data using the productivity-corrected colonial sex ratios. Formulae sensu Bourke & Franks (1995: 160-161).
 
-Bourke A.F.G. & Franks N.R. _Social Evolution in Ants. Monographs in Behavior and Ecology._ (Princeton University Press, 1995).
+[Bourke A.F.G. & Franks N.R. _Social Evolution in Ants. Monographs in Behavior and Ecology._ (Princeton University Press, 1995).]
 
 ```
 ### Get function and data
@@ -44,13 +47,14 @@ $n_indiv
 ```
 
 ## The Founder-generalized FG model
-Model is implemented in the Excel file available with the paper (Supplementary Data 1). The same model is implemented under R under this repository.
+Model to predict sex ratio in a population of termites as presented in Hellemans _et al._ (2025). Model is implemented in the Excel file available with the paper (Supplementary Data 1). The same model is implemented under R under this repository.
 ```
 ### Source the model functions
 source(file="R_utilities/related_tables.R")
 source(file="R_utilities/model_source.R")
 
 ### Define the species parameters
+# (parameters below are from Cavitermes tuberosus)
 my_parameters = c(
   q = 0.06, # proportion of parthenogenetically-produced female alates
   L = 0.1, # sex-linked genome fraction
