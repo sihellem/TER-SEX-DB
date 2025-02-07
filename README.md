@@ -43,7 +43,27 @@ $n_indiv
 [1] 8510
 ```
 
+## The Founder-generalized FG model
+Model is implemented in the Excel file available with the paper (Supplementary Data 1). The same model is implemented under R under this repository.
+```
+### Source the model functions
+source(file="R_utilities/related_tables.R")
+source(file="R_utilities/model_source.R")
 
+### Define the species parameters
+my_parameters = c(
+  q = 0.06, # proportion of parthenogenetically-produced female alates
+  L = 0.1, # sex-linked genome fraction
+  u = 0.18, # proportion of sexually-produced neotenic queens
+  n.pq.pk = 27, # number of nests with Primary Queen + Primary King
+  n.nq.pk = 12, # number of nests with Neotenic Queens + Primary King
+  n.nq.nk = 4, # number of nests with Neotenic Queens + Neotenic King
+  n.pq.nk = 0 # number of nests with Primary Queen + Neotenic King
+)
+
+### FG model predictions
+do.call(founder_population_optimum, as.list(my_parameters))
+```
 
 ## How to cite this repository and review
 Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites.
