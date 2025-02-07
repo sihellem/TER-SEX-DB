@@ -21,6 +21,28 @@ sub50 <- subset(data, n_tot > 50)
 srpop_bourke(sub50$SRN, sub50$n_tot)
 ```
 
+Output should be like:
+```
+> srpop_bourke(sub50$SRN, sub50$n_tot)
+$pop_sex_ratio
+[1] 0.4921269
+
+$SD
+[1] 0.04704284
+
+$LI
+[1] 0.4911274
+
+$UI
+[1] 0.4931264
+
+$n_nests
+[1] 19
+
+$n_indiv
+[1] 8510
+```
+
 
 
 ## How to cite this repository and review
