@@ -6,5 +6,22 @@
 # ! UNDER CONSTRUCTION !
 _Data will first appear at the publisher of the manuscript as "Supplementary Data" and will then be mirrored on this GitHub page._
 
-## How to cite
+## Population sex ratio
+Calculate the mean population numerical sex ratio and its associated 95% confidence interval (CI) for frequency-structured data using the productivity-corrected colonial sex ratios. Formulae sensu Bourke & Franks (1995: 160-161).
+
+Bourke A.F.G. & Franks N.R. _Social Evolution in Ants. Monographs in Behavior and Ecology._ (Princeton University Press, 1995).
+
+```
+### Get function and data
+source(file="R_utilities/population_sr.R")
+data <- read.table(file = "toy-data/cavitermes_tuberosus.txt", sep="\t", header = TRUE)
+### Discard observations made on 50 or fewer individuals.
+sub50 <- subset(data, n_tot > 50)
+### Get the Population sex ratio
+srpop_bourke(sub50$SRN, sub50$n_tot)
+```
+
+
+
+## How to cite this repository and review
 Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites.
