@@ -63,6 +63,7 @@ my_parameters = c(
 
 ### FG model predictions
 do.call(founder_population_optimum, as.list(my_parameters))
+# [1] 0.5217811
 ```
 
 ## How to cite this repository and review
