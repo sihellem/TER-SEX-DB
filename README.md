@@ -1,6 +1,6 @@
 [![sihellem - TER-SEX-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-SEX-DB&color=red&logo=github)](https://github.com/sihellem/TER-SEX-DB "Go to GitHub repo")
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Generic badge](https://img.shields.io/badge/CommBiol-10.1038/s42003-025-07771-z-<COLOR>.svg)](https://doi.org/10.1038/s42003-025-07771-z)
+[![Generic badge](https://img.shields.io/badge/CommBiol-<COLOR>.svg)](https://doi.org/10.1038/s42003-025-07771-z)
 
 # ! UNDER CONSTRUCTION !
 _Data will first appear at the publisher of the manuscript as "Supplementary Data" and will then be mirrored on this GitHub page._
@@ -72,4 +72,4 @@ do.call(founder_population_optimum, as.list(my_parameters))
 ```
 
 ## How to cite this repository and review
-Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites.
+Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites. doi: [10.1038/s42003-025-07771-z](https://doi.org/10.1038/s42003-025-07771-z)
