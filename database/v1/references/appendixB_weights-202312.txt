@@ -1,0 +1,26 @@
+Appendix B. References for dry and wet weights in alates.
+Afzal, M. 1984. Metabolic rates in different castes and instars of a drywood termite Bifiditermes beesoni (Gardner) (Isoptera). International Journal of Tropical Insect Science 5: 13–17.
+Bouillon, A. 1964. Etude de la composition des sociétés dans trois espèces d’Apicotermes Holmgren (Isoptera, Termitinae). In: Études sur les Termites Africains (A. Bouillon, ed), pp. 181–196. Léopoldville: Éditions de l’Université, Kinshasa.
+Chouvenc, T., Scheffrahn, R.H., Mullins, A.J., Su, N.Y. 2017. Flight phenology of two Coptotermes species (Isoptera: Rhinotermitidae) in southeastern Florida. Journal of Economic Entomology 110: 1693–1704.
+Connétable, S., Robert, A., Bordereau, C. 2012. Dispersal flight and colony development in the fungus-growing termites Pseudacanthotermes spiniger and P. militaris. Insectes Sociaux 59: 269–277.
+Fougeyrollas, R., Křivánek, J., Roy, V., Dolejšová, K., Frechault, S., Roisin, Y., Hanus, R., Sillam-Dussès, D. 2017. Asexual queen succession mediates an accelerated colony life cycle in the termite Silvestritermes minutus. Molecular Ecology 26: 3295–3308.
+Hébrant, F. 1970. Étude du flux énergétique chez deux espèces du genre Cubitermes Wasmann (Isoptera, Termitinae), termites humivores des savanes tropicales de la région Éthiopienne. Université Catholique de Louvain.
+Hellemans, S., Fournier, D., Hanus, R., Roisin, Y. 2019. Sex ratio variations among years and breeding systems in a facultatively parthenogenetic termite. Insectes Sociaux 66: 129–138.
+Husseneder, C., Simms, D.M. 2008. Size and heterozygosity influence partner selection in the Formosan subterranean termite. Behavioral Ecology 19: 764–773.
+Jones, S.C., La Fage, J.P., Wright, V.L. 1981. Studies of dispersal, colony caste and sexual composition, and incipient colony development of Pterotermes occidentis (Walker) (Isoptera: Kalotermitidae). Sociobiology 6: 221–242.
+Josens, G. 1972. Études biologique et écologique des termites (Isoptera) de la savane de Lamto-Pakobo (Côte d’Ivoire). Université libre de Bruxelles.
+Kobayashi, K., Hasegawa, E., Yamamoto, Y., Kawatsu, K., Vargo, E.L., Yoshimura, J., Matsuura, K. 2013. Sex ratio biases in termites provide evidence for kin selection. Nature Communications 4: 2048.
+Li, G.H., Lei, C.L., Wang, Z.H., Huang, Q.Y. 2015. Dynamics of sex ratio, fresh weight and nutrient contents at five developmental stages of alates in the subterranean termite Reticulitermes chinensis. Insectes Sociaux 62: 51–57.
+Miyaguni, Y., Agarie, A., Sugio, K., Tsuji, K., Kobayashi, K. 2021. Caste development and sex ratio of the Ryukyu drywood termite Neotermes sugioi and its potential mechanisms. Scientific Reports 11: 15037.
+Myles, T.G., Chang, F. 1984. The caste system and caste mechanisms of Neotermes connexus (Isoptera: Kalotermitidae). Sociobiology 9: 163–319.
+Nalepa, C.A., Miller, L.R., Lenz, M. 2001. Flight characteristics of Mastotermes darwiniensis (Isoptera, Mastotermitidae). Insectes Sociaux 48: 144–148.
+Peakin, G.J., Josens, G. 1978. Respiration and energy flow. In: Production Ecology of Ants and Termites (M. V. Brian, ed), pp. 111–163. Cambridge University Press, Cambridge, United Kingdom.
+Roonwal, M.L., Rathore, N.S. 1972. Sex ratios, sexual dimorphism, body-weight and moisture-content in two desert termites, Anacanthotermes macrocephalus (Hodotermitidae) and Microtermes mycophagus (Termitidae), from India. Annals of Arid Zone 11: 92–110.
+Roonwal, M.L., Verma, S.C. 1973. Observations on sex ratios, sexual dimorphism, weight and moisture-content in two termites from Indian desert, Microcerotermes raja and Microtermes obesi (Termitidae). Annals of Arid Zone 12: 107–124.
+Shelton, T.G., Appel, A.G. 2001. Cyclic CO2 release and water loss in alates of the eastern subterranean termite (Isoptera: Rhinotermitidae). Annals of the Entomological Society of America 94: 420–426.
+Sinotte, V.M., Conlon, B.H., Seibel, E., Schwitalla, J.W., de Beer, Z.W., Poulsen, M., Bos, N. 2021. Female-biased sex allocation and lack of inbreeding avoidance in Cubitermes termites. Ecology and Evolution 11: 5598–5605.
+Su, N.-Y., Scheffrahn, R.H. 1987. Alate production of a field colony of the Formosan subterranean termite (Isoptera: Rhinotermitidae). Sociobiology 13: 209–215.
+Thakur, M.L., Kumar, S. 1989. Some biological observations on swarming populations of Odontotermes indicus Thakur (Isoptera: Macrotermitidae). Journal of the Indian Academy of Wood Science 20: 23–29.
+Thorne, B.L. 1983. Alate production and sex ratio in colonies of the Neotropical termite Nasutitermes corniger (Isoptera; Termitidae). Oecologia 58: 103–109.
+Trivers, R., Hare, H. 1976. Haplodiploidy and the evolution of the social insects. Science 191: 249–263.
+van der Westhuizen, M.C., Hewitt, P.H., van der Linde, T.C. de K. 1985. Physiological changes during colony establishment in the termite Hodotermes mossambicus (Hagen): water balance and energy content. Journal of Insect Physiology 31: 435–440.
