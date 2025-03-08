@@ -72,4 +72,4 @@ do.call(founder_population_optimum, as.list(my_parameters))
 ```
 
 ## How to cite this repository and review
-Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites. doi: [10.1038/s42003-025-07771-z](https://doi.org/10.1038/s42003-025-07771-z)
+Hellemans S, Bourguignon T, Roisin Y. 2025. Towards a universal understanding of sex ratio in termites.
